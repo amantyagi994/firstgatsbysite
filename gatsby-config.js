@@ -10,7 +10,7 @@ module.exports = {
 		siteTitle: `Aman Tyagi`,
 		siteTitleAlt: `Aman Tyagi(UI/UX Designer | Developer)`,
 		siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
-		siteUrl: ``,
+		siteUrl: `https://cara.lekoarts.de`,
 		siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
 		siteLanguage: `en`,
 		siteImage: `/banner.jpg`,
